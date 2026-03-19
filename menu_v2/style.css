@@ -1,0 +1,19 @@
+*{
+      margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: red;
+    background-color: rgba(110, 10, 10, 0.854);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 50px;
+    border-bottom: 10PX solid white;
+}
+
+body{
+
+    background: linear-gradient( 0deg rgb(88, 17, 17));
+}
